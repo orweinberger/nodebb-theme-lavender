@@ -52,7 +52,7 @@
 						<div class="topic-footer">
 							<div class="row">
 								<div class="">
-									<small class="pull-right">
+									<small class="pull-left">
 										<span>
 											<!-- IF posts.user.userslug -->
 											<i component="user/status" class="fa fa-circle status {posts.user.status}" title='[[global:{posts.user.status}]]'></i>
