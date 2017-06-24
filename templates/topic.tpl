@@ -16,7 +16,7 @@
 						<div class="topic-body">
 							<div class="row">
 								<div class="col-md-12">
-									<div class="topic-profile-pic hidden-xs text-center">
+									<div class="topic-profile-pic pull-right hidden-xs text-center">
 										<a href="<!-- IF posts.user.userslug -->{config.relative_path}/user/{posts.user.userslug}<!-- ELSE -->#<!-- ENDIF posts.user.userslug -->">
 											<!-- IF posts.user.picture -->
 											<img itemprop="image" component="user/picture" data-uid="{posts.user.uid}" src="{posts.user.picture}" align="left" class="img-thumbnail" />
